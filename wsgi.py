@@ -1,4 +1,3 @@
-pip install -r requirements.txt
 import tensorflow as tf
 from tensorflow.python.keras.preprocessing import image
 from tensorflow.python.keras.models import load_model
