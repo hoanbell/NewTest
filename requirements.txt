@@ -1,4 +1,3 @@
-pip install heapq_max
 tensorboard==2.3.0
 tensorboard-plugin-wit==1.7.0
 tensorflow==2.3.0
