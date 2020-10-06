@@ -1,1 +1,1 @@
-web: gunicorn app:app -b localhost:8008
+web: gunicorn wsgi:app
