@@ -1,6 +1,6 @@
-import tensorflow as tf
-from tensorflow.python.keras.preprocessing import image
-from tensorflow.python.keras.models import load_model
+# import tensorflow as tf
+# from tensorflow.python.keras.preprocessing import image
+# from tensorflow.python.keras.models import load_model
 from flask import Flask
 from flask import jsonify, request
 import numpy as np
