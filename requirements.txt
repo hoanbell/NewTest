@@ -151,9 +151,9 @@ soupsieve==2.0.1
 ssh-import-id==5.10
 statistics==1.0.3.5
 systemd-python==234
-tensorboard==2.3.0
+tensorboard==2.2.0
 tensorboard-plugin-wit==1.7.0
-tensorflow==2.3.0
+tensorflow==2.2.0
 tensorflow-datasets==3.2.1
 tensorflow-estimator==2.3.0
 tensorflow-metadata==0.24.0
